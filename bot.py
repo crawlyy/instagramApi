@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from instaApi import InstagramAPI
+from instgramApi import InstagramAPI
 from random import randint
 import time
 import sys
